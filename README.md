@@ -1,16 +1,21 @@
-## Hi there 👋
+# Nathan Barnes (barnes-ngb)
 
-<!--
-**barnes-ngb/barnes-ngb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **instruments** that turn messy reality into actionable geometry:  
+**scan → reconcile → directives → build**.
 
-Here are some ideas to get you started:
+- 🧱 **Scan-to-Action (Flagship):** anchor alignment + part DOF constraints → “move directives” for field install / AR overlays  
+- 🧪 **patina-model:** thermodynamics + simple kinetics for patina phase prediction
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I work in
+- Computational geometry: Rhino/Grasshopper (C#), Python
+- 3D web tooling: TypeScript, Three.js / React Three Fiber
+- Fabrication + metrology: panel systems, scan alignment, installation constraints
+
+## Featured
+- **patina-model** — predicting patina states (Python)
+- **scan-to-action** — install directives from scans (repo coming online)
+- **induction-folding-lab** — curve-crease + coil experiments (notes + tests)
+
+## Contact
+- LinkedIn: <add link>
+- Email: <optional>
