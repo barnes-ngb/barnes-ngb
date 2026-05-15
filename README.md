@@ -13,7 +13,7 @@
 | **ZEMaPP** | CNC fabrication file automation — adopted by 30+ engineers | C#, Python, Grasshopper |
 | **MODA** | Customer-facing 3D configurator → spec-ready configs + quoting | React, Three.js, TypeScript |
 | **SurveyLink** | Real-time field feedback from Leica total station to web app | Svelte, Node.js, Firebase |
-| **Directive Engine** | Point cloud deviations → installer-ready correction cards | TypeScript, Three.js |
+| **Directive Engine** | Point cloud deviations → installer-ready correction cards — v0.2 demo live: [Demo](https://directive-engine.vercel.app) · [Write-up](https://systemsforge.build/writing/pixels-to-atoms/) · [Source](https://github.com/barnes-ngb/directive-engine) | TypeScript, Three.js |
 | **Precision Patina** | 3D configurator for robotic surface treatment parameters | React, Three.js |
 | **Fabricator API** | Feasibility bumpers flagging infeasible geometry at design stage | Grasshopper, C# |
 
