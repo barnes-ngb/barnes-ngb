@@ -2,7 +2,7 @@
 
 **I build the software layer between design models and factory floors** — geometry pipelines, fabrication constraints, CNC automation, and field verification tools.
 
-11+ years at the intersection of architecture, fabrication, and software engineering. Most of that time spent at [A. Zahner Company](https://www.azahner.com/), one of the most technically demanding architectural metal fabricators in the country, building internal production tools that bridge what gets designed and what gets built.
+12 years at the intersection of architecture, fabrication, and software engineering. Most of that time spent at [A. Zahner Company](https://www.azahner.com/), one of the most technically demanding architectural metal fabricators in the country, building internal production tools that bridge what gets designed and what gets built.
 
 ---
 
@@ -10,10 +10,10 @@
 
 | Tool | What it does | Stack |
 |------|-------------|-------|
+| **Directive Engine** *(flagship)* | Point cloud deviations → installer-ready correction cards — v0.2 demo live: [Demo](https://directive-engine.vercel.app) · [Write-up](https://systemsforge.build/writing/pixels-to-atoms/) · [Source](https://github.com/barnes-ngb/directive-engine) | TypeScript, Three.js |
 | **ZEMaPP** | CNC fabrication file automation — adopted by 30+ engineers | C#, Python, Grasshopper |
 | **MODA** | Customer-facing 3D configurator → spec-ready configs + quoting | React, Three.js, TypeScript |
 | **SurveyLink** | Real-time field feedback from Leica total station to web app | Svelte, Node.js, Firebase |
-| **Directive Engine** | Point cloud deviations → installer-ready correction cards — v0.2 demo live: [Demo](https://directive-engine.vercel.app) · [Write-up](https://systemsforge.build/writing/pixels-to-atoms/) · [Source](https://github.com/barnes-ngb/directive-engine) | TypeScript, Three.js |
 | **Precision Patina** | 3D configurator for robotic surface treatment parameters | React, Three.js |
 | **Fabricator API** | Feasibility bumpers flagging infeasible geometry at design stage | Grasshopper, C# |
 
@@ -42,6 +42,6 @@
 
 ### Currently
 
-Exploring what's next at the intersection of design, fabrication, and software — particularly in **AEC-prefab, modular construction, and manufacturing automation**. The same design-to-fabrication translation problem I solved for bespoke curved metal applies directly to standardized panel systems at higher volume and greater scale.
+Exploring senior individual-contributor roles at the intersection of design, fabrication, and software — computational geometry, geometry pipelines, CNC automation, and field verification for teams shipping complex physical hardware. The same design-to-fabrication translation problem I solved for bespoke curved metal applies directly to propulsion, satellite assembly, battery systems, and high-volume panelized construction.
 
 **Let's talk:** [barnes.ngb@gmail.com](mailto:barnes.ngb@gmail.com) · [LinkedIn](https://www.linkedin.com/in/barnesngb/) · [systemsforge.build](https://systemsforge.build/)
